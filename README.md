@@ -1,0 +1,2 @@
+# AndroidStudioProjects
+このリポジトリはAndroidStudioのチュートリアルで作成したアプリを公開するためのものです．
