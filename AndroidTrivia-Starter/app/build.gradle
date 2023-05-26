@@ -20,6 +20,8 @@ apply plugin: 'kotlin-android'
 
 apply plugin: 'kotlin-kapt'
 
+apply plugin: 'androidx.navigation.safeargs'
+
 android {
     compileSdkVersion 30
     defaultConfig {
@@ -41,6 +43,14 @@ android {
     }
     buildFeatures {
         dataBinding true
+    }
+    sourceSets {
+        main {
+            kotlin {
+                srcDirs += 'build/generated/source/navigation-args/'
+                srcDirs += 'build/generated/source/navigation-args/debug/com/example/android/navigation/'
+            }
+        }
     }
 }
 
