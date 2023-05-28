@@ -1,4 +1,4 @@
-#Fri May 26 01:47:00 PDT 2023
+#Sat May 27 23:59:39 PDT 2023
 base.0=/Users/mtakahashi/AndroidStudioProjects/DessertClicker-Starter/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
