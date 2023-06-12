@@ -1,0 +1,4 @@
+#Thu Jun 08 04:52:28 PDT 2023
+base.0=/Users/mtakahashi/AndroidStudioProjects/TestApplication/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
